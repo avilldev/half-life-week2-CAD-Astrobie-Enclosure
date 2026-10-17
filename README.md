@@ -36,3 +36,5 @@ The enclosure designed for my Week 1 Hack Club Halflife PCB project, [Astrobie](
 The following are the YouTube Shorts uploaded over the course of the project:
 * **Idea Reel:** https://www.youtube.com/shorts/GRncmxcXaZo
 * **5 Hours Progress Reel:** https://www.youtube.com/shorts/d7MjOriPcxA
+
+You can see the CAD model in Onshape [here](https://cad.onshape.com/documents/b051be212a38cdeb0840ace4/w/a1403b8eb0c1591ed22e75c5/e/d805a47b37af4c3b7774f6c4).
