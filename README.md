@@ -28,6 +28,15 @@ The enclosure designed for my Week 1 Hack Club Halflife PCB project, [Astrobie](
 * **Wall Count:** 3 Walls
 * **Supports:** Supports are necessary for both the base and the lid.
 
+## BOM
+| Part | What it's for | Qty | Unit | Total | Vendor |
+| --- | --- | --- | --- | --- | --- |
+| [Enclosure Base](https://3dprintingroom.com/3d-printing-instant-quote/) | Astrobie Enclosure | 1 | $4.47 | $4.47 | [3D Printing Room](https://3dprintingroom.com/3d-printing-instant-quote/) |
+| [Enclosure Lid](https://3dprintingroom.com/3d-printing-instant-quote/) | Astrobie Enclosure | 1 | $3.92 | $3.92 | [3D Printing Room](https://3dprintingroom.com/3d-printing-instant-quote/) |
+| **Parts subtotal** | — | — | — | **$8.39** | — |
+| **Tax & shipping** | — | — | — | **$0.00** | — |
+| **Total** | — | — | — | **$8.39** | — |
+
 ## Included Files
 * **STL:** Ready to print files. To send to the manufacturer or to print at home.
 * **STEP:** 3D CAD modelling files. To import the model into [Onshape](https://www.onshape.com/en/) (or similar) and view.
